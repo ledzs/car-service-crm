@@ -26,6 +26,7 @@ namespace CarService
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddSingleton<ICarService, SomeCarService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
