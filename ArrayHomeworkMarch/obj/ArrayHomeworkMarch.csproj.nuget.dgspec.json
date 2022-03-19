@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj": {}
+    "C:\\Users\\User\\source\\repos\\ArrayHomeworkMarch\\ArrayHomeworkMarch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj": {
+    "C:\\Users\\User\\source\\repos\\ArrayHomeworkMarch\\ArrayHomeworkMarch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj",
-        "projectName": "CarService",
-        "projectPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ArrayHomeworkMarch\\ArrayHomeworkMarch.csproj",
+        "projectName": "ArrayHomeworkMarch",
+        "projectPath": "C:\\Users\\User\\source\\repos\\ArrayHomeworkMarch\\ArrayHomeworkMarch.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\ArrayHomeworkMarch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,18 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "JetBrains.Annotations": {
-              "target": "Package",
-              "version": "[2021.3.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -59,10 +49,13 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.20, 3.1.20]"
+            }
+          ],
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj": {}
+    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService.ApplicationServices\\CarService.ApplicationServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj": {
+    "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService.ApplicationServices\\CarService.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj",
-        "projectName": "CarService",
-        "projectPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\CarService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService.ApplicationServices\\CarService.ApplicationServices.csproj",
+        "projectName": "CarService.ApplicationServices",
+        "projectPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService.ApplicationServices\\CarService.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\car-service-crm\\CarService.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "JetBrains.Annotations": {
-              "target": "Package",
-              "version": "[2021.3.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

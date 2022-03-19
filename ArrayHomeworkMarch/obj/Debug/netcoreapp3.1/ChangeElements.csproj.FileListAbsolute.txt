@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.exe
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.deps.json
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.runtimeconfig.json
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.dll
+C:\Users\User\source\repos\ArrayHomeworkMarch\bin\Debug\netcoreapp3.1\ChangeElements.pdb
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.AssemblyInfo.cs
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.dll
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.pdb
+C:\Users\User\source\repos\ArrayHomeworkMarch\obj\Debug\netcoreapp3.1\ChangeElements.genruntimeconfig.cache
